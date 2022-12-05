@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+section {
+	text-align: center;
+}
+img {
+	object-fit: cover;
+}
+.wrapper {
+	justify-content: center;
+	align-items: flex-end;
+    padding-top: 20px;
+}
+.input {
+	text-align: center;
+	margin: ;
+}
+
+.text-p {
+	height: 17px;
+}
+
+.text-l {
+	height: 17px;
+}
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+.card {
+    margin:10px;
+}
+.butt {
+    padding-top: 20px;
+}
